@@ -1,16 +1,43 @@
-## Hi there 👋
+# Jacob Coffman
 
-<!--
-**jacobcoffman-security/jacobcoffman-security** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Entry-level cybersecurity analyst focused on SOC operations, threat detection, SIEM monitoring, log analysis, and incident response.
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- CompTIA Security+
+- Splunk SIEM
+- Windows Event Log analysis
+- SOC alert triage
+- Incident documentation
+- Threat detection labs
+
+## Hands-On Projects
+
+- Failed login investigation
+- PowerShell activity investigation
+- Phishing analysis
+- Port scan detection
+- Splunk dashboard project
+- Home lab with Windows, Kali Linux, Sysmon, and Splunk
+
+## Tools
+
+- Splunk
+- Windows Event Viewer
+- Sysmon
+- Wireshark
+- Kali Linux
+- VirtualBox
+- VirusTotal
+- GitHub
+
+## Portfolio Repositories
+
+- SOC-Portfolio
+- Splunk-Projects
+- Home-Lab
+- Detection-Rules
+
+## Career Target
+
+SOC Analyst I, Security Analyst, MDR Analyst, or Security Monitoring Analyst.
